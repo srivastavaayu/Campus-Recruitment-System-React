@@ -1,4 +1,6 @@
-# React Assessment
+# Campus Recruitment System - Frontend
+
+The full version of this project with the server can be found [here at https://github.com/srivastavaayu/Campus-Recruitment-System/](https://github.com/srivastavaayu/Campus-Recruitment-System/).
 
 A deployed version of this application can be found [here at https://campus-recruitment-system-react.vercel.app/](https://campus-recruitment-system-react.vercel.app/).
 
