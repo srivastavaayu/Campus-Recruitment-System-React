@@ -15,12 +15,18 @@ function Home(props) {
             <div>
               <h1 className="text-center">Campus Recruitment System</h1>
               <p className="textJustify">
+                <span style={{color: "yellow", backgroundColor: "#000"}}>Note: Please append these URL slugs to visit the relevant user dashboard. 
+                  <ul>
+                  <li><code>/Admin/Home</code> to visit Admin Dashboard</li>
+                  <li><code>/PlacementCoordinator/Home</code> to visit Placement Coordinator Dashboard</li>
+                  <li><code>/Company/Home</code> to visit Company Dashboard</li>
+                  <li><code>/Student/Home</code> to visit Student Dashboard</li>
+                  </ul>
+                </span>
                 Campus Recruitment System is a management system developed to
                 streamline application tracking in Jaypee University of
                 Engineering and Technology. The project is developed by Aayush
-                Srivastava, Abhishek Gupta and Ashish Kumar Gupta, three
-                students of the 2022 batch of Jaypee University of Engineering
-                and Technology. Lorem ipsum dolor sit amet consectetur,
+                Srivastava. Lorem ipsum dolor sit amet consectetur,
                 adipisicing elit. Minima eum praesentium vero in perspiciatis
                 ipsam debitis rem. Iure eius placeat eaque quidem illo nisi
                 quos? Fuga nisi libero dolorum sed. Lorem ipsum dolor sit amet
